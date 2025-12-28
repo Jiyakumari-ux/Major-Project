@@ -12,18 +12,6 @@ Generate statistical insights from banking data
 
 Build an interactive Power BI dashboard for business decision-making
 
-Understand real-world banking analytics use cases
-
-🎯 Objectives
-
-Perform data cleaning and preprocessing
-
-Conduct exploratory data analysis (EDA) to identify patterns and trends
-
-Generate statistical insights from banking data
-
-Build an interactive Power BI dashboard for business decision-making
-
 Understand real-world banking analytics use cases 🛠️ Tools & Technologies Used
 
 Python
